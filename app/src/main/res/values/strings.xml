@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobilalkfejl</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome to SST</string>
+    <string name="beer">drawable/beer.png</string>
+</resources>
